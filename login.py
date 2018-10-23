@@ -2,8 +2,6 @@ a = 1
 
 b = 2
 
-c = 6
-
 
 def index():
      return 'helloworld'
@@ -11,3 +9,11 @@ def index():
 
 def hello():
     return'hello 2345'
+
+
+def detail():
+     return 'hello 6478'
+
+
+g = 5
+
