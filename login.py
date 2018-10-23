@@ -10,3 +10,6 @@ def index():
 
 def hello():
     return'hello 2345'
+
+
+c = 4
